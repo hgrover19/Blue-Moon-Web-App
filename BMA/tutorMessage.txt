@@ -1,0 +1,16 @@
+Hi ${TUTOR_NAME},
+
+There is a student who has requested ${INSTRUMENT} lessons and we thought you would be a good fit! The student's name is ${STUDENT_NAME} and they are in ${STUDENT_GRADE} grade. The email to contact the student/their family is ${STUDENT_EMAIL}.   
+
+Please send them an email either today or tomorrow introducing yourself and in regards to lesson planning, so that you can find a time/place/date that works for the both of you! I will also be sending an email to the parent to let them know that there is a tutor available and that they should be looking for an email from you.
+
+It is suggested to provide a free trial lesson with the parent and student to learn about each other before you start the actual lesson. The trial lesson can be 20-30 minutes long. You can ask the student to prepare a piece of music or some scales for the trial lesson.
+
+Some things to know about starting lessons: Lessons are $10 for 30 minutes, $15 for 45 minutes, and $20 for 60 minutes. We have a cash-only policy but parents can make checks out to your parent, you can cash the check in yourself and then turn in the appropriate amount of cash to Blue Moon. We will be recording money periodically during the school year and we keep track of volunteer hours based off of the amount collected. These hours can be used towards NHS or other places that require service hours. All money is donated at the end of the year to a music program in need of funding for instruments, sheet music, uniforms, etc. 
+
+Once you receive a response, please be sure to email us back at bluemoonmusic@mtsd.us, so that we know that the student has a tutor! Same goes for if it doesn't work out between you both - we want to make sure that the students aren't left without a response!
+
+Tutors commonly use the books and music they’ve used in the past for the lessons. If you ever have any questions regarding starting lessons or about Blue Moon in general, feel free to contact us! We’d be glad to help in any way that we can!
+
+Thanks,
+Blue Moon Music

@@ -1,0 +1,8 @@
+Dear ${STUDENT_NAME},
+
+Unfortunately there are no tutors available for ${INSTRUMENT} at this time. We will get back to you when there is an opening.
+
+Thank you for your interest in Blue Moon.
+
+Have a great day,
+Blue Moon Music 

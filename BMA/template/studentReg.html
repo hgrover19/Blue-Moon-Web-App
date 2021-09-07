@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="box3">
+        <h1 class="formone">Become a Student!</h1>
+        <form class="needs-validatiom" action="/registered" method="POST" nonvalidate>
+            <div class="mb-3">
+                <label for="validtionCustom01" class="form-label">Student Name</label>
+                <input class="form-control" type="text" id="validationCustom01" placeholder="Ex: John Doe" aria-label="default input example" name="studentName" required>
+            </div>
+            <div class="mb-3">
+              <label for="validtionCustom01" class="form-label">Student Grade</label>
+              <input class="form-control" onkeypress="return isNumberKey(event)" type="text" id="txtNumber validationCustom01" placeholder="1-9" name="studentGrade" required>
+            </div>
+
+            <div class="mb-3">
+              <label for="exampleInputEmail1 validationCustom01" class="form-label">Parent Email Address</label>
+              <input type="input" class="form-control" type="text" id="exampleInputEmail1 validationCustom01" aria-describedby="emailHelp" placeholder="name@example.com" name="emailContact" required>
+              <div id="emailHelp" class="form-text">We will contact you through this email address</div>
+            </div>
+
+            <select class="form-select" aria-label="Default select example" name="instrument">
+                <option selected>Select an instrument</option>
+                <option value="Violin">Violin</option>
+                <option value="Guitar">Guitar</option>
+                <option value="Piano">Piano</option>
+                <option value="Piano">Clarinet</option>
+                <option value="Piano">Cello</option>
+                <option value="Piano">Piano</option>
+                <option value="Piano">Flute</option>
+                <option value="Piano">Viola</option>
+                <option value="Piano">Trumpet</option>
+                <option value="Piano">Baritone Sax</option>
+                <option value="Piano">Alto Sax</option>
+                <option value="Piano">Trombone</option>
+            </select>
+            <div id="emailHelp" class="form-text">If an instrument is not offered, please email us at bluemoonmusic@mtsd.us</div>
+            <div class="col-12">
+              <div class="form-check">
+                <div class="invalid-feedback">
+                  You must agree before submitting.
+                </div>
+              </div>
+            </div>
+            <div class="col-12">
+              <button class="btn btn-primary" type="submit">Submit form</button>
+            </div>
+          </form>
+    </div>
+
+
+{% endblock %}

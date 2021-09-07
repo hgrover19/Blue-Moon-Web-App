@@ -1,0 +1,11 @@
+Hello,
+
+A student has requested a tutor, but the program has determined that no tutors are currently available. The student's information is presented below:
+
+Name: ${STUDENT_NAME}
+Grade: ${STUDENT_GRADE}
+Requested Instrument: ${INSTRUMENT}
+Contact Email: ${EMAIL_CONTACT}
+
+Sincerely, 
+Blue Moon Bot

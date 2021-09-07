@@ -1,0 +1,15 @@
+Dear ${STUDENT_NAME},
+
+We have found a ${INSTRUMENT} tutor for your child! Their name is ${TUTOR_NAME} and they will be emailing you within the next few days in regards to lesson planning - their email is ${TUTOR_EMAIL}.
+
+Lessons are $10 for 30 minutes, $15 for 45 minutes, and $20 for 60 minutes. We have a cash-only policy, but you can pay by check if you make the check out to your particular tutor, who will then turn in the appropriate cash amount to Blue Moon Music.
+
+In the case that lessons don’t work out with your given tutor, please email us, so that we can find your child a different tutor!
+
+If you have any additional questions, feel free to contact us at bluemoonmusic@mtsd.us. We will be happy to help in any way that we can.
+
+Have a great day,
+Blue Moon Music 
+
+
+
