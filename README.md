@@ -7,7 +7,7 @@ Blue Moon Music Group is a non-profit organization based in Skillman, NJ, USA as
 - The current student onboarding process is inefficient requiring a minimum of 4 emails sent back and forth and 1 week of processing time
 - To match a student to an instructor, an administrator must manually sort through a complicated and long spreadsheet (on google sheets)
 
-To address these issues, I built a web app using the Flask Python web framework along with HTML, CSS and Javascript. I used the google sheets api to maintain compatability with the current system to use as a database. There is a form on the site for prospective students and instructors to fill out and emails are sent automatically after the matching process with the spreadsheet is completed by a bot.
+To address these issues, I built a web app using the Flask Python web framework along with HTML and CSS. I used the google sheets api to maintain compatability with the current system to use as a database. There is a form on the site for prospective students and instructors to fill out and emails are sent automatically after the matching process with the spreadsheet is completed by a bot.
 
 The website also clearly conveys information to visitors about the organization's goals and initiatives.
 
