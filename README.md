@@ -13,4 +13,4 @@ The website also clearly conveys information to visitors about the organization'
 
 These changes decreased the processing time from 1 week to less than a minute.
 
-NOTE: Site no longer in use as of September 2023
+NOTE: Site no longer in use as of September 2023, although this source code has been adapted for a newer site by members of this organization after I graduated
