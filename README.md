@@ -12,3 +12,5 @@ To address these issues, I built a web app using the Flask Python web framework 
 The website also clearly conveys information to visitors about the organization's goals and initiatives.
 
 These changes decreased the processing time from 1 week to less than a minute.
+
+NOTE: Site no longer in use as of September 2023
